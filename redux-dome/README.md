@@ -24,3 +24,10 @@ yarn add babel-plugin-import
 // less 样式
 yarn add less less-loader
 ```
+
+```
+// redux 安装
+npm install --save redux
+// redux 开发者工具
+npm install --save-dev redux-devtools
+```
